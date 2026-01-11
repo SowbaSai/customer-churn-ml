@@ -12,4 +12,5 @@ To analyze customer data and predict whether a customer is likely to leave.
 - Scikit-learn
 
 ## Project Status
-Data exploration in progress.
+Dataset added. Exploratory data analysis started.
+
